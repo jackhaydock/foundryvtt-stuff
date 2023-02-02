@@ -1,0 +1,40 @@
+{
+    "globalMappings": {
+      "Concentration": {
+        "imgName": "",
+        "imgSrc": "",
+        "priority": 50,
+        "config": {},
+        "overlay": true,
+        "alwaysOn": false,
+        "overlayConfig": {
+          "underlay": false,
+          "inheritTint": false,
+          "linkRotation": true,
+          "linkMirror": true,
+          "linkOpacity": false,
+          "loop": true,
+          "playOnce": false,
+          "img": "modules/JB2A_DnD5e/Library/Generic/Magic_Signs/Runes/IllusionRuneLoop_01_Regular_Purple_400x400.webm",
+          "alpha": 1,
+          "tint": "",
+          "offsetX": -0.54,
+          "offsetY": 0.74,
+          "scaleX": 0.53,
+          "scaleY": 0.53,
+          "angle": 0,
+          "filter": "NONE",
+          "animation": {
+            "rotate": false,
+            "relative": false,
+            "duration": 16500,
+            "clockwise": true
+          },
+          "alwaysVisible": false,
+          "limitToUser": false,
+          "limitedUsers": [],
+          "effect": "Concentration"
+        }
+      }
+    }
+  }

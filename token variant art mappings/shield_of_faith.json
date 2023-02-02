@@ -1,0 +1,40 @@
+{
+    "globalMappings": {
+      "Shield of Faith": {
+        "imgName": "",
+        "imgSrc": "",
+        "priority": 50,
+        "config": {},
+        "overlay": true,
+        "alwaysOn": false,
+        "overlayConfig": {
+          "underlay": false,
+          "inheritTint": false,
+          "linkRotation": true,
+          "linkMirror": true,
+          "linkOpacity": false,
+          "loop": true,
+          "playOnce": false,
+          "img": "modules/JB2A_DnD5e/Library/Generic/Marker/MarkerShield_02_Regular_Green_400x400.webm",
+          "alpha": 1,
+          "tint": "",
+          "offsetX": 0,
+          "offsetY": 0.01,
+          "scaleX": 1.41,
+          "scaleY": 1.41,
+          "angle": 0,
+          "filter": "NONE",
+          "animation": {
+            "rotate": false,
+            "relative": false,
+            "duration": 5000,
+            "clockwise": true
+          },
+          "alwaysVisible": false,
+          "limitToUser": false,
+          "limitedUsers": [],
+          "effect": "Shield of Faith"
+        }
+      }
+    }
+  }
