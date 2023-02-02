@@ -24,6 +24,7 @@ Used with [Token Variant Art](https://foundryvtt.com/packages/token-variants) mo
 *Requires [JB2A - Jules&Ben's Animated Assets](https://foundryvtt.com/packages/JB2A_DnD5e)*
 
 ![concentration](_img/concentration.png)
+![concentration](_img/concentration.png)
 
 ### Shield of Faith
 *Requires [JB2A - Jules&Ben's Animated Assets](https://foundryvtt.com/packages/JB2A_DnD5e)*
